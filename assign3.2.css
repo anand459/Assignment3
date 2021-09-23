@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.ad{
+    color: blue;
+}
+.sd{
+    background-color: rgb(235, 104, 104);
+}
+.ad.sd{
+    font-style: italic;
+}
